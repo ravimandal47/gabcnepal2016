@@ -38,10 +38,10 @@ Thank you for your contribution to the community by organizing Global Azure Boot
     * Brief overview of Azure Virtual Machines. 
         * Refer to presentation in the repo
     * Creating Azure Virutal Machines using portal.
-        * https://azure.microsoft.com/en-us/documentation/services/virtual-machines/windows/
+        * https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-hero-tutorial/
 
-Please remember, you can do any sessions of your choice and ease. 
+#####Please remember, you can do any sessions of your choice and ease. 
 
 ###Thanks again for your great contribution :) ###
 
-#Azure #GlobalAzure #GlobalAzureNepal  
+##Azure #GlobalAzure #GlobalAzureNepal  
