@@ -3,9 +3,9 @@
 
 Thank you for your contribution to the community by organizing Global Azure Boot Camp at your venue. Hope to see your frequent  contribution to the community. 
 
-##Sessions to deliver : ## 
+##Sessions to deliver : 
   
-###You can deliver sessions on any topic to the participants. But here are some suggested topics. ### 
+###You can deliver sessions on any topic to the participants. But here are some suggested topics. 
 
  * Azure Web Apps
     * Creating Web Apps using Visual Studio and Portal. 
