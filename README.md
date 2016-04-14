@@ -9,7 +9,8 @@ Thank you for your contribution to the community by organizing Global Azure Boot
 
  * Azure Web Apps
     * Creating Web Apps using Visual Studio and Portal. 
-    * Deploying Web Apps using Visual Studio / Web Matrix , FTP.
+    * Deploying Web Apps using Visual Studio / Web Matrix. (http://technetnepal.net/blogs/ravikandel/archive/2015/11/06/creating-amp-deploying-a-website-in-azure-using-web-matrix.aspx)
+    * Deploying Web Apps using FTP (http://technetnepal.net/blogs/ravikandel/archive/2015/10/31/deploying-a-website-in-azure-via-ftp-file-transfer-protocol.aspx)
     * Deploying web Apps using GitHub. (Please do this session for the publicity of Global Azure Boot Camp. Use Repository : https://github.com/ravimandal47/globalazurebootcamp ) 
     * Using Application Settings in Azure Web Apps. (Use App_Settings_Cheat_Sheet.txt in this repo for codes)
    
