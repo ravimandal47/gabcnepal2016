@@ -1,0 +1,20 @@
+# (default.aspx.cs)
+
+ 	    string key = "labelColor";  
+            string colorValue = ConfigurationManager.AppSettings[key];  
+            label.Text = "I got my color from Azure.";  
+            label.ForeColor = System.Drawing.Color.FromName(colorValue);  
+
+ASP.NET Web Form (default.aspx)
+
+<asp:Label runat="server" id="label"></asp:Label>  
+
+Web.config 
+
+Add following lines after <configuration>
+
+<appSettings>
+    <add key="labelColor" value="blue"/>
+</appSettings>
+
+
