@@ -9,19 +9,36 @@ Thank you for your contribution to the community by organizing Global Azure Boot
 
  * Azure Web Apps
     * Creating Web Apps using Visual Studio and Portal. 
-    * Deploying Web Apps using Visual Studio / Web Matrix. (http://technetnepal.net/blogs/ravikandel/archive/2015/11/06/creating-amp-deploying-a-website-in-azure-using-web-matrix.aspx)
-    * Deploying Web Apps using FTP (http://technetnepal.net/blogs/ravikandel/archive/2015/10/31/deploying-a-website-in-azure-via-ftp-file-transfer-protocol.aspx)
-    * Deploying web Apps using GitHub. (Please do this session for the publicity of Global Azure Boot Camp. Use Repository : https://github.com/ravimandal47/globalazurebootcamp ) 
+      * http://www.c-sharpcorner.com/UploadFile/218ec8/deploy-a-simple-azure-website-from-visual-studio/
+      * http://www.c-sharpcorner.com/UploadFile/1ae37f/how-to-create-website-in-microsoft-azure/
+    * Deploying Web Apps using Visual Studio / Web Matrix. 
+      * http://rvimandal.com/deploy-a-web-site-in-azure-using-webmatrix/
+    * Deploying Web Apps using FTP 
+      * http://technetnepal.net/blogs/ravikandel/archive/2015/10/31/deploying-a-website-in-azure-via-ftp-file-transfer-protocol.aspx
+    * Deploying web Apps using GitHub. 
+    (Please do this session for the publicity of Global Azure Boot Camp. Use Repository : https://github.com/ravimandal47/globalazurebootcamp ) 
+###### Steps : 
+        * Create Web App using Azure Portal (http://portal.azure.com)
+        * Go to settings of your new Web Site
+        * Go to deployment source
+        * Click on Choose a deployment source and select External Repository
+        * In Repository URL enter - https://github.com/ravimandal47/globalazurebootcamp.git
+        * Click on OK and Sync 
+        
     * Using Application Settings in Azure Web Apps. (Use App_Settings_Cheat_Sheet.txt in this repo for codes)
+        * http://rvimandal.com/introduction-to-app-settings-in-azure-web-apps/
    
  * Azure SQL 
     * Creating SQL Database
+        * https://azure.microsoft.com/en-us/documentation/articles/sql-database-get-started/
     * Difference between Azure SQL and On-Prem SQL Server
-    * Migrating SQL from On-Prem to Azure 
- 
+        * Refer to the SQL Slide in repo.
+    
  * Azure Virtual Machines. 
     * Brief overview of Azure Virtual Machines. 
-    * Creating Azure Virutal Machines using portal. 
+        * Refer to presentation in the repo
+    * Creating Azure Virutal Machines using portal.
+        * https://azure.microsoft.com/en-us/documentation/services/virtual-machines/windows/
 
 Please remember, you can do any sessions of your choice and ease. 
 
