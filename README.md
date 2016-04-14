@@ -1,5 +1,5 @@
 
-#Global Azure Boot Camp#
+#Global Azure Boot Camp Nepal 2016#
 
 Thank you for your contribution to the community by organizing Global Azure Boot Camp at your venue. Hope to see your frequent  contribution to the community. 
 
@@ -44,4 +44,4 @@ Thank you for your contribution to the community by organizing Global Azure Boot
 
 ###Thanks again for your great contribution :) ###
 
-##Azure #GlobalAzure #GlobalAzureNepal  
+# #Azure #GlobalAzure #GlobalAzureNepal  
